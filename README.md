@@ -10,7 +10,7 @@ A Flutter app that lets you snap a photo of your meal and instantly get an AI-po
 The image is sent to an **n8n** webhook, analyzed by an **AI Agent** node (Google Gemini Chat Model), parsed, and the structured nutrition data is sent back to the app.
 
 <p align="center">
-  <img src="assets/readme/n8n_workflow.png" alt="n8n Workflow Diagram" width="800"/>
+  <img src="screenshots/n8n.JPG" alt="n8n Workflow Diagram" width="800"/>
 </p>
 
 **Flow:**
@@ -21,16 +21,13 @@ Flutter App → Webhook → Prepare Image → AI Agent (Gemini) → Code (parse 
 ---
 
 ## 📱 Screenshots
-<div align="center">
-  <img src="screenshots/n8n.JPG" alt="Scan Screen" width="100%"/>
-  </div>
 
 
 <div align="center">
   &nbsp;&nbsp;
   <img src="screenshots/scan.jpeg" alt="Scanning Animation" width="220"/>
   &nbsp;&nbsp;
-  <img src="screenshots/scanmeal.jpeg.jpeg" alt="Result Screen" width="220"/>
+  <img src="screenshots/scanmeal.jpeg" alt="Result Screen" width="220"/>
   &nbsp;&nbsp;
 
   <img src="screenshots/result_scan.jpeg" alt="Result Screen" width="220"/>
