@@ -31,7 +31,9 @@ Flutter App → Webhook → Prepare Image → AI Agent (Gemini) → Code (parse 
   &nbsp;&nbsp;
 
   <img src="screenshots/result_scan.jpeg" alt="Result Screen" width="220"/>
+  &nbsp;&nbsp;
 
+  <img src="screenshots/analysis.jpeg" alt="Result Screen" width="220"/>
 </div>
 
 ---
@@ -122,12 +124,9 @@ dependencies:
    flutter pub get
    ```
 
-3. Update the n8n webhook URL in the remote data source:
-   ```dart
-   static const String _webhookUrl = 'https://your-n8n-instance.app/webhook/analyze-food';
-   ```
 
-4. Run the app
+
+3. Run the app
    ```bash
    flutter run
    ```
