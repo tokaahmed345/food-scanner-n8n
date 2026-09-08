@@ -1,4 +1,8 @@
 
+
+https://github.com/user-attachments/assets/d8da79fc-6a8f-4483-8819-784e12febef9
+
+
 # 🍽️ Food Calorie Scanner
 
 A Flutter app that lets you snap a photo of your meal and instantly get an AI-powered breakdown of its calories, protein, carbs, and fat — powered by an **n8n** workflow running Google Gemini Vision under the hood.
@@ -21,6 +25,10 @@ Flutter App → Webhook → Prepare Image → AI Agent (Gemini) → Code (parse 
 ---
 
 ## 📱 Screenshots
+
+
+https://github.com/user-attachments/assets/0c4898c0-2dd9-44a3-b9c1-e4bfc9845617
+
 
 
 <div align="center">
