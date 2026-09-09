@@ -1,6 +1,6 @@
 
 
-# 🍽️ Food Calorie Scanner
+# 🍽️  Food Calorie Scanner
 
 A Flutter app that lets you snap a photo of your meal and instantly get an AI-powered breakdown of its calories, protein, carbs, and fat — powered by an **n8n** workflow running Google Gemini Vision under the hood.
 
